@@ -4,7 +4,6 @@
 ## 😇 Ça c'est moi
 - Nico, 20 ans
 - Porte + d'intérêts aux choses inutiles qu'aux choses primordiales
-<br>
 
 ## 😴 Et comment j'en suis arrivé là
 - flemmardise
@@ -12,7 +11,6 @@
 - flânerie
 - paresse
 <p>Du coup jfais des trucs automatiques<p>
-<br>
 
 ## 🌐 Réseau social
 
@@ -21,7 +19,6 @@
 <li><a href="https://instagram.com/riri.nico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riri.nico" height="15" width="20" />Instagram</a></li>
 </ul>
 </p>
-<br>
 
 ## 🧪 Langages / Frameworks / Outils
 <p>
@@ -41,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p><br>
+</p>
 
 ## 🥇 Les stats (publiques) GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoriri&show_icons=true&locale=en" alt="nicoriri" /></p>
