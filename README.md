@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">Étudiant en Info sur sa deuxième année</h3>
+<h3 align="center">Étudiant en Info sur sa troisième année</h3>
 
 ## 😇 Ça c'est moi
 - Nico, 20 ans
