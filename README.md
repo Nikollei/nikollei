@@ -2,13 +2,13 @@
 <br/>
 <div align = 'left'>
 <a href="https://www.linkedin.com/in/nicolasbern/">
-  <img align="left" alt="nikollei's Linkedin" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/master/assets/linkedin.png" />
+  <img align="left" alt="nikollei's Linkedin" width="30px" src="https://raw.githubusercontent.com/NicoRiri/NicoRiri/blob/master/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/riri.nico/">
-  <img align="left" alt="nikollei's Instagram" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/master/assets/instagram.png" />
+  <img align="left" alt="nikollei's Instagram" width="30px" src="https://raw.githubusercontent.com/NicoRiri/NicoRiri/blob/master/assets/instagram.png" />
 </a>
 <a href="https://open.spotify.com/user/kikokiko36?si=7d15f4cba2d7434c">
-  <img align="left" alt="nikollei's Spotify" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/master/assets/spotify.png" />
+  <img align="left" alt="nikollei's Spotify" width="30px" src="https://raw.githubusercontent.com/NicoRiri/NicoRiri/blob/master/assets/spotify.png" />
 </a>
  <br /> <br />
 
