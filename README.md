@@ -89,4 +89,4 @@ const nikollei = {
 ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![GitHub](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/nicoriri) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/riri.nico/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
+[![GitHub](https://img.shields.io/github/followers/NicoRiri?label=follow&style=social)](https://github.com/NicoRiri) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/riri.nico/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
