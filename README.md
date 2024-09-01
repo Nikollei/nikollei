@@ -75,7 +75,7 @@ const nikollei = {
         },
         backEnd: {
             js: ["Express"],
-            php : ["Symfony, Slim"]
+            php : ["Symfony", "Slim"]
         },
         databases: ["MySQL", "MariaDB", "PostgreSQL", "~MongoDB"],
     },
