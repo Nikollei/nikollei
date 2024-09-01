@@ -20,7 +20,6 @@
 - 💬 Ask me about: anything but my life.
 - 📫 How to reach me: Use the links in the footer.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can get lost in a garden.
 - 📚 5 Words that best sum me up: Music, Movies, Memes, Games, Sleep.
 
 
@@ -71,15 +70,15 @@ const nikollei = {
     technologies: {
         frontEnd: {
             js: ["VueJS", "NuxtJS"],
-            css: ["CSS3", "Tailwind", "SASS"]
+            php: ["Twig"]
+            css: ["CSS3", "Tailwind", "SASS", "Bootstrap"]
         },
         backEnd: {
             js: ["Express"],
-            php : ["Slim"]
+            php : ["Symfony, Slim"]
         },
-        databases: ["MySql", "MariaDb", "adminer"],
+        databases: ["MySQL", "MariaDB", "PostgreSQL", "~MongoDB"],
     },
-    funFact: "I think I'm lost in a garden."
 };
 ```
 
