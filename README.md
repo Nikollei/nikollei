@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/riri.nico/">
   <img align="left" alt="nikollei's Instagram" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/main/assets/instagram.png" />
 </a>
-<a href="https://open.spotify.com/user/kikokiko36?si=7d15f4cba2d7434c">
-  <img align="left" alt="nikollei's Spotify" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/main/assets/spotify.png" />
-</a>
  <br /> <br />
 
 <p><em>Computer Science Student at <a href="https://iut-charlemagne.univ-lorraine.fr/">IUT Nancy Charlemagne</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
