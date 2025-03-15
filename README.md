@@ -1,25 +1,12 @@
-# Hello there [N](https://tenor.com/fr/view/n-harmonia-n-pokemon-gif-12318653891817148882)
-
-<h2>Hello there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
-<br/>
-<div align = 'left'>
-<a href="https://www.linkedin.com/in/nicolasbern/">
-  <img align="left" alt="nikollei's Linkedin" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/main/assets/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/riri.nico/">
-  <img align="left" alt="nikollei's Instagram" width="30px" src="https://github.com/NicoRiri/NicoRiri/blob/main/assets/instagram.png" />
-</a>
- <br /> <br />
-
-<p><em>Computer Science Student at <a href="https://iut-charlemagne.univ-lorraine.fr/">IUT Nancy Charlemagne</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<h2>Hello there! <img src="https://media.tenor.com/qvSmcpS-kdIAAAAj/n-harmonia-n.gif" width="50"></h2>
+<p><em>My name is Nicolas Bernardet, I am an IT engineer at <a href="https://otelo.univ-lorraine.fr/">Lorraine Earth and Environment Observatory</a>.</em></p>
 
 - 🔮 What do I do? - I turn on Wi-Fi for my parents while pretending to be a tech hero.
-- 🌱 In my little free time, I try to emulate a phone with the "plato" application to cheat at billiards with calculations that can predict a perfect trajectory
-- 💬 Ask me about: anything but my life.
-- 📫 How to reach me: Use the links in the footer.
+- 🌱 In my little free time, I'm ruining myself on League of Legends
+- 💬 Ask me about: repair a printer (yes, I know how to do it.)
+- 📫 How to reach me: Instagram DM.
 - 😄 Pronouns: he/him
-- 📚 5 Words that best sum me up: Music, Movies, Memes, Games, Sleep.
+- 📍 Location : Nancy from France 🇫🇷
 
 
 **Languages and Tools:** 
