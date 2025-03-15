@@ -1,42 +1,30 @@
 <h2>Hello there! <img src="https://media.tenor.com/qvSmcpS-kdIAAAAj/n-harmonia-n.gif" width="50"></h2>
 <p><em>My name is Nicolas Bernardet, I am an IT engineer at <a href="https://otelo.univ-lorraine.fr/">Lorraine Earth and Environment Observatory</a>.</em></p>
 
-- 🔮 What do I do? - I turn on Wi-Fi for my parents while pretending to be a tech hero.
+- 🔮 What do I do? - Mainly websites from scratch to deployment.
 - 🌱 In my little free time, I'm ruining myself on League of Legends
-- 💬 Ask me about: repair a printer (yes, I know how to do it.)
-- 📫 How to reach me: Instagram DM.
-- 😄 Pronouns: he/him
-- 📍 Location : Nancy from France 🇫🇷
+- 💢 Ask me about: repair a printer (yes, I can do that.)
+- 📫 How to reach me: Instagram's DM.
+- 🚹 Pronouns: he/him
+- 📍 Location : 🇫🇷 Nancy
 
 
-**Languages and Tools:** 
+**Main Languages and Tools:** 
 
 <p>
   <a>
-    <img width="60%" align="right" alt="nikollei's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicoriri&show_icons=true&hide_border=true" />
+    <img width="60%" align="right" alt="nikollei's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NicoRiri&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=NicoRiri%27s%20Github%20Stats" />
   </a>
   
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-  
+  <code><img width="8%" src="https://www.svgrepo.com/show/306827/symfony.svg"></code>
+  <code><img width="8%" src="https://www.svgrepo.com/show/354528/vue.svg"></code>
+  <code><img width="8%" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
+  <br/>
+  <br/>
+  <code><img width="8%" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
+  <code><img width="8%" src="https://www.svgrepo.com/show/448233/kubernetes.svg"></code>
+  <code><img width="8%" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
 </p>
 
 <div align="center">
@@ -45,28 +33,31 @@
 
 </div>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const nikollei = {
+    name: "Nicolas Bernardet",
+    location: "Nancy",
     pronouns: "he/him",
-    code: ["Javascript", "HTML", "Python", "Java"],
-    askMeAbout: ["Sleep", "Eat", "Sleep", "Eat", "Sleep", "Eat", "A̶l̶a̶r̶m̶ ̶c̶l̶o̶c̶k̶"],
     technologies: {
         frontEnd: {
-            js: ["VueJS", "NuxtJS"],
-            php: ["Twig"]
+            js: ["VueJS", "NuxtJS", "NextJS"],
+            php: ["Twig"],
             css: ["CSS3", "Tailwind", "SASS", "Bootstrap"]
         },
         backEnd: {
             js: ["Express"],
             php : ["Symfony", "Slim"]
         },
-        databases: ["MySQL", "MariaDB", "PostgreSQL", "~MongoDB"],
+        databases: ["MySQL", "MariaDB", "PostgreSQL", "MongoDB"],
     },
-};
+};  
 ```
+
+### Last words
+
+<img style="display: block; margin: auto;" src="https://media1.tenor.com/m/Nzf-WneUimMAAAAC/unova-pokemon-n.gif" alt="">
 
 ---
 
@@ -74,4 +65,4 @@ const nikollei = {
 ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![GitHub](https://img.shields.io/github/followers/NicoRiri?label=follow&style=social)](https://github.com/NicoRiri) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/riri.nico/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
+[![GitHub](https://img.shields.io/github/followers/NicoRiri?label=follow&style=social)](https://github.com/NicoRiri) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_ririmth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
