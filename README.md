@@ -13,7 +13,7 @@
 
 <p>
   <a>
-    <img width="60%" align="right" alt="nikollei's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NicoRiri&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=NicoRiri%27s%20Github%20Stats" />
+    <img width="60%" align="right" alt="Nikollei's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nikollei&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Nikollei%27s%20Github%20Stats" />
   </a>
   
   
