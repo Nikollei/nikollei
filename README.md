@@ -27,12 +27,6 @@
   <code><img width="8%" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
 </p>
 
-<div align="center">
-
-![VisitorCount](https://profile-counter.glitch.me/{riri.nico}/count.svg)
-
-</div>
-
 ### A little more about me...  
 
 ```javascript
@@ -65,4 +59,4 @@ const nikollei = {
 ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![GitHub](https://img.shields.io/github/followers/NicoRiri?label=follow&style=social)](https://github.com/NicoRiri) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_ririmth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
+[![GitHub](https://img.shields.io/github/followers/Nikollei?label=follow&style=social)](https://github.com/Nikollei) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_ririmth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbern/)
